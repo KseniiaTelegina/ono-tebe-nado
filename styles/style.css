@@ -1,5 +1,5 @@
 .body {
-    width: 1440px; 
+    width: 1440px;
     height: 2844px;
     background: #FFF;
 }
@@ -64,7 +64,7 @@
     font-style: normal;
     font-size: 18px;
     font-weight: 400;
-    line-height: 24.3px; 
+    line-height: 24.3px;
 }
 
 .telefon, .mail {
@@ -85,7 +85,7 @@
     top: 0;
     left: 0;
     bottom: 0;
-    right: 0; 
+    right: 0;
 }
 
 .cover {
@@ -96,14 +96,14 @@
     background-image: url(../images/cover.jpg);
     background-size: 100% auto;
     background-repeat: no-repeat;
-    background-position: right center; 
+    background-position: right center;
 }
 
 .cover__title {
     display: flex;
     flex-direction: column;
     width: 100%;
-    padding: 165px 50px 147px;
+    padding: 165px 50px 135px;
     color: #FFF;
     font-size: 100px;
     font-weight: 700;
@@ -143,8 +143,8 @@
     justify-content: end;
     align-items: center;
     margin-right: 50px;
-    margin-bottom: 50px;
-    gap: 78px; 
+    padding-bottom: 50px;
+    gap: 78px;
 }
 
 .cover__description-text {
@@ -177,7 +177,7 @@
     width: 1340px;
 }
 
-.lots__heading { 
+.lots__heading {
     padding-bottom: 27px;
     padding-left: 40px;
     color: #000;
@@ -193,7 +193,7 @@
     flex-grow: 1;
     list-style: none;
     padding-bottom: 30px;
-    width: 1340px;   
+    width: 1340px;
 }
 
 .card {
@@ -248,7 +248,7 @@
     line-height: 120%;
     text-decoration-line: underline;
     text-transform: uppercase;
-    z-index: 1;  
+    z-index: 1;
 }
 
 .card__text {
