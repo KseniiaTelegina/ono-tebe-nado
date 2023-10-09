@@ -59,7 +59,7 @@
 }
 
 
-.address{
+.address {
     color: #000;
     font-style: normal;
     font-size: 18px;
@@ -110,8 +110,6 @@
     line-height: 115%;
     text-transform: uppercase;
     word-spacing: -5px;
-    
-   
 }
 
 .aligned-text {
@@ -146,11 +144,10 @@
     align-items: center;
     margin-right: 50px;
     margin-bottom: 50px;
-    gap: 78px;
-    
+    gap: 78px; 
 }
 
-.cover__description-text{
+.cover__description-text {
     color: #FFF;
     text-align: center;
     font-size: 22px;
@@ -287,7 +284,7 @@
     padding: 0px 95px;
 }
 
-.about__logo{
+.about__logo {
     display: flex;
     width: 240px;
     height: 240px;
