@@ -6,6 +6,7 @@
 
 body {
   min-width: 1100px;
+  max-width: 1440px;
   margin: 0;
   font-family: Raleway, sans-serif;
 }
@@ -31,4 +32,14 @@ a {
 
 img {
   width: 100%;
+}
+
+address {
+  max-width: 240px;
+  text-underline-offset: 4px;
+  font-style: normal;
+  font-size: 18px;
+  color: #000;
+  font-weight: 400;
+  line-height: 24.3px;
 }
