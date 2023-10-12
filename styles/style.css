@@ -181,6 +181,7 @@ address {
     gap: 25px;
     flex-wrap: wrap;
     align-content: stretch;
+    list-style: none;
     
 }
 
@@ -193,10 +194,10 @@ address {
 }
 
 .card-link {
-    display: block;
-    list-style: none;
+    display: block; 
     height: 100%;
     width: 100%;
+    text-decoration: none;
 }
 
 .card {
@@ -214,15 +215,15 @@ address {
 }
 
 .card__type_film {
-    background: url(../images/card-lot-01.jpg);
+    background-image: url(../images/card-lot-01.jpg);
 }
 
 .card__type_book {
-    background: url(../images/card-lot-02.jpg);
+    background-image: url(../images/card-lot-02.jpg);
 }
 
 .card__type_picture {
-    background: url(../images/card-lot-03.jpg);
+    background-image: url(../images/card-lot-03.jpg);
 }
 
 .card__title {
